@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple snake game built in React and deployed with Vercel to [https://react-snake-puce.vercel.app/](https://react-snake-puce.vercel.app/).
 
 ## Available Scripts
 
